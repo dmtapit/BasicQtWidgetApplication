@@ -32,3 +32,6 @@ HEADERS += \
 
 FORMS += \
         textfinder.ui
+
+RESOURCES += \
+    textfinder.qrc
